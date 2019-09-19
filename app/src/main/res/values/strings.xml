@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoCleanArchitecture</string>
+    <string name="get">GET</string>
+</resources>
