@@ -11,5 +11,5 @@ OSS :
 5.Kotlin corountines  
 6.Fresco  
 7.ViewModel (Jeckpack)  
-8.dagger2
+8.dagger2  
 9.Room
