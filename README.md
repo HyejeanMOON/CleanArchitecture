@@ -11,6 +11,6 @@ OSS :
 4.Okhttp  
 5.Kotlin corountines  
 6.Fresco  
-7.ViewModel (Jeckpack)  
+7.ViewModel (Jetpack)  
 8.dagger2  
 9.Room
