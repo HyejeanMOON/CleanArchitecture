@@ -2,6 +2,7 @@
 
 Programming Language: Kotlin  
 Architecture: MVVM  
+App description: It's a wallpaper application with Unsplash.
   
 OSS :  
 1.Navigation  
